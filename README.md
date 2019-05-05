@@ -1,4 +1,4 @@
-# BinaryTree
+# Binary Search Tree
 
 A binary search tree algorithm which allows users to add nodes to the tree and search for existing nodes.
 
