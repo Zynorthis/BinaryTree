@@ -1,5 +1,7 @@
 # BinaryTree
 
+A binary search tree algorithm which allows users to add nodes to the tree and search for existing nodes.
+
 ## Classes and Functionality
 The binary search tree class has two member methods, one for adding nodes to the tree, and another for searching the tree for existing nodes with a givening value. Both methods contain a time complextity of BigO(n). The tree also hold member variables for a root node and a reference node. the root node is used as a base line to begin adding and searching, and a reference node which is used a reference and consistantly changed in the add and search methods.
 
